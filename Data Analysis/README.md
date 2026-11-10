@@ -566,50 +566,5 @@ These methods perform feature selection as part of model training.
 Feature importance should be interpreted carefully; it does not
 automatically prove that a feature causes the target.
 
-------------------------------------------------------------------------
 
-## Quick Revision
-
-  -----------------------------------------------------------------------
-  Term                                Short meaning
-  ----------------------------------- -----------------------------------
-  AI                                  Broad field of making machines
-                                      perform intelligent tasks
-
-  ML                                  Learning patterns from data
-
-  DL                                  ML using deep neural networks
-
-  Supervised Learning                 Learning from labelled data
-
-  Unsupervised Learning               Finding patterns in unlabelled data
-
-  Reinforcement Learning              Learning through actions and
-                                      rewards
-
-  EDA                                 Exploring and understanding data
-
-  Data Cleaning                       Fixing or handling data-quality
-                                      problems
-
-  Data Preprocessing                  Preparing data for analysis/model
-                                      training
-
-  Feature Encoding                    Converting categories into
-                                      numerical representations
-
-  Feature Scaling                     Bringing numerical features to
-                                      comparable scales
-
-  Feature Engineering                 Creating or transforming useful
-                                      features
-
-  Feature Selection                   Choosing useful features and
-                                      removing less useful ones
-
-  Model Training                      Fitting a learning algorithm to
-                                      training data
-
-  Model Evaluation                    Measuring model performance
-  -----------------------------------------------------------------------
 
